@@ -1,3 +1,28 @@
+:root {
+  --deep-blue-color: #011F4B;
+  --ash-color: #7E8299;
+  --light-blue-color: #F1FAFE;
+
+
+  --size-4: 4px;
+  --size-8: 8px;
+  --size-16: 16px;
+  --size-24: 24px;
+  --size-32: 32px;
+  --size-40: 40px;
+  --size-48: 48px;
+  --size-56: 56px;
+  --size-64: 64px;
+  --size-72: 72px;
+  --size-80: 80px;
+  --size-88: 88px;
+  --size-96: 96px;
+  --size-104: 104px;
+  --size-112: 112px;
+  --size-120: 120px;
+  --size-128: 128px;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

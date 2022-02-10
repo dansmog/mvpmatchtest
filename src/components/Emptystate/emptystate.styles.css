@@ -1,0 +1,12 @@
+.emptystate__wrapper {
+  width:100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.emptystate__wrapper h6 {
+  font-size:var(--size-24);
+  color: var(--deep-blue-color)
+}
