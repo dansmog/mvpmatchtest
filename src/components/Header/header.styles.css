@@ -1,0 +1,30 @@
+header, nav {
+  height: 80px;
+}
+header {
+  border-bottom: 2px solid var(--border-color);
+}
+.nav--left .sidebar__toggler {
+  margin-left:38.33px;
+}
+.nav--right span{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:8px;
+  color:var(--white-color);
+  background-color: var(--yellow-color);
+  border-radius:var(--border-radius-sm);
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size:23px;
+}
+
+.nav--right p {
+  margin:0;
+  color: var(--deep-blue-color);
+  margin-left:11px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size:16px;
+}

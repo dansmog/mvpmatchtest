@@ -1,7 +1,11 @@
 :root {
-  --deep-blue-color: #011F4B;
+  --deep-blue-color: #005B96;
+  --black-variant-color: #011F4B;
   --ash-color: #7E8299;
+  --border-color:#F3F6F9;
   --light-blue-color: #F1FAFE;
+  --white-color:#fff;
+  --yellow-color:#F6CA65;
 
 
   --size-4: 4px;
@@ -21,6 +25,10 @@
   --size-112: 112px;
   --size-120: 120px;
   --size-128: 128px;
+
+
+  --border-radius-sm: 5px;
+
 }
 
 body {
