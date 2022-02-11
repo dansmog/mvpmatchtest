@@ -37,13 +37,13 @@ const Header = () => {
                     y2="43.4265"
                     gradientUnits="userSpaceOnUse"
                   >
-                    <stop stop-color="#00628B" />
-                    <stop offset="0.03" stop-color="#006792" />
-                    <stop offset="0.19" stop-color="#007BAF" />
-                    <stop offset="0.36" stop-color="#008BC6" />
-                    <stop offset="0.54" stop-color="#0096D6" />
-                    <stop offset="0.74" stop-color="#009DE0" />
-                    <stop offset="1" stop-color="#009FE3" />
+                    <stop stopColor="#00628B" />
+                    <stop offset="0.03" stopColor="#006792" />
+                    <stop offset="0.19" stopColor="#007BAF" />
+                    <stop offset="0.36" stopColor="#008BC6" />
+                    <stop offset="0.54" stopColor="#0096D6" />
+                    <stop offset="0.74" stopColor="#009DE0" />
+                    <stop offset="1" stopColor="#009FE3" />
                   </linearGradient>
                   <linearGradient
                     id="paint1_linear_36_5004"
@@ -53,8 +53,8 @@ const Header = () => {
                     y2="29.4393"
                     gradientUnits="userSpaceOnUse"
                   >
-                    <stop offset="0.47" stop-color="#00628B" />
-                    <stop offset="1" stop-color="#009FE3" />
+                    <stop offset="0.47" stopColor="#00628B" />
+                    <stop offset="1" stopColor="#009FE3" />
                   </linearGradient>
                   <linearGradient
                     id="paint2_linear_36_5004"
@@ -64,8 +64,8 @@ const Header = () => {
                     y2="14.9016"
                     gradientUnits="userSpaceOnUse"
                   >
-                    <stop offset="0.28" stop-color="#00628B" />
-                    <stop offset="1" stop-color="#009FE3" />
+                    <stop offset="0.28" stopColor="#00628B" />
+                    <stop offset="1" stopColor="#009FE3" />
                   </linearGradient>
                 </defs>
               </svg>

@@ -1,0 +1,19 @@
+.dashboard__header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.dashboard__header--left h6 {
+  font-size: var(--size-24);
+  color: var(--black-variant-color);
+  margin-bottom: 4px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+.dashboard__header--left p {
+  margin: 0;
+  color: var(--ash-color);
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}

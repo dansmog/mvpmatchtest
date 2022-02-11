@@ -29,6 +29,8 @@
 
   --border-radius-sm: 5px;
 
+
+
 }
 
 body {
@@ -43,4 +45,23 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+.margin--left--33 {
+  margin-left:33px;
+}
+
+.button {
+  border-radius:5px;
+  cursor: pointer;
+  border:none;
+  padding:8px 10px;
+}
+.main  {
+  background-color: var(--deep-blue-color);
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  color:var(--white-color);
 }

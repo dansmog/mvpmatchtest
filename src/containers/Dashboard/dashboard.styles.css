@@ -1,0 +1,7 @@
+.main__content {
+  padding-top:33px;
+  width:100%;
+}
+.main__content--right {
+  width:inherit
+}
